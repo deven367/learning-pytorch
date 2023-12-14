@@ -3,6 +3,5 @@ website:
     contents:
       - index.ipynb
       - 00-fundamentals.ipynb
-      - 00_core.ipynb
       - 01-workflows.ipynb
       - micrograd.ipynb
