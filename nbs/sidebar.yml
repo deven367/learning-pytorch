@@ -4,4 +4,5 @@ website:
       - index.ipynb
       - 00-fundamentals.ipynb
       - 01-workflows.ipynb
+      - 02-nn-classification.ipynb
       - micrograd.ipynb
