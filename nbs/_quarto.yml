@@ -1,11 +1,18 @@
 project:
   type: website
+  preview:
+    port: 4000
+    browser: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    # grid:
+    #   sidebar-width: 300px
+    #   body-width: 1100px
+    #   margin-width: 300px
 
 website:
   twitter-card: true
