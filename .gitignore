@@ -152,3 +152,4 @@ checklink/cookies.txt
 
 # ignore saved models
 *.pth
+data/
