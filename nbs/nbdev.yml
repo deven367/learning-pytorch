@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "learn-pytorch"
-  site-url: "https://deven367.github.io/learn-pytorch"
+  title: "learning-pytorch"
+  site-url: "https://deven367.github.io/learning-pytorch"
   description: "repo to save nbs created while learning pytorch"
   repo-branch: main
-  repo-url: "https://github.com/deven367/learn-pytorch"
+  repo-url: "https://github.com/deven367/learning-pytorch"
