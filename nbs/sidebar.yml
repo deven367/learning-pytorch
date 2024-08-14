@@ -5,4 +5,7 @@ website:
       - 00-fundamentals.ipynb
       - 01-workflows.ipynb
       - 02-nn-classification.ipynb
+      - 03-cv.ipynb
+      - induction-head.ipynb
       - micrograd.ipynb
+      - micrograd_lecture_second_half_roughly.ipynb
